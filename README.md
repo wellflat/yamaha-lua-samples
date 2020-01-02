@@ -11,4 +11,6 @@ Luaスクリプト機能バージョン:    1.08
 ...
 ```
 
+TODO: LuaSocket使って通信してみる
+
 [RTX830]:https://network.yamaha.com/products/routers/rtx830/index
